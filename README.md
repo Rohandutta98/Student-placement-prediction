@@ -4,6 +4,11 @@ A Machine Learning web application built using **Streamlit** that predicts a stu
 
 ---
 
+## 🌐 Live App
+
+🔗 https://student-placement-prediction-a8.streamlit.app/
+
+
 ## 🚀 Project Overview
 
 This project uses **Logistic Regression** to predict whether a student has a high or low chance of getting placed.
